@@ -1,0 +1,9 @@
+/node_modules/
+.env
+
+temp/*
+storage/*
+!temp/
+!storage/
+
+database/sqlite.db
